@@ -11,5 +11,6 @@ These demos follow Wes Bos's [JavaScript30](http://www.javascript30.com) challen
 3. **CSS Variables**  
     **Highlights**: Getting/setting CSS variables with values, HTML5 inputs (range, color), element.dataset, scoping variables to elements
 
-4.
+4. **ARRAY CARDIO**  
+    **Highlights**: Array filter(), map(), sort(), reduce(), console.table(), querySelector works on any DOM element (not just document), destructed array assignments
     
