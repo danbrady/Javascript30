@@ -25,3 +25,6 @@ These demos follow Wes Bos's [JavaScript30](http://www.javascript30.com) challen
 
 8. **HTML5 CANVAS**  
     **Highlights**: destructuring arrays, global composite operation (like Photoshop blend modes)
+
+9. **DEV TOOLS TRICKS**  
+    **Highlights**: break on node modifications, styling console output, console.assert, console.group()/groupEnd()/groupCollapsed(), console.count(), console.time()/timeEnd()
