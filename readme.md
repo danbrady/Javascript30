@@ -1,4 +1,4 @@
-These demos follow Wes Bos's [JavaScript30](http://www.javascript30.com) challenges that use Javascript (with ES6 features) without any libraries, frameworks, or external scripts of any kind. Below I'll log what I found interesting as well the modifications I made to the final result.
+These demos follow Wes Bos's [JavaScript30](http://www.javascript30.com) challenges that use Javascript (with ES6 features) without any libraries, frameworks, or external scripts of any kind. Below are what I found interesting as well any modifications I made to the final result.
 
 1. **DRUM KIT**  
     **Highlights**: HTML5 Audio, CSS transition event listeners  
@@ -16,3 +16,6 @@ These demos follow Wes Bos's [JavaScript30](http://www.javascript30.com) challen
     
 5. **FLEX PANELS**  
     **Hightlights**: Nested Flexbox items, transition effects
+
+6. **AJAX TYPEAHEAD**  
+    **Highlights**: fetch API, promises
