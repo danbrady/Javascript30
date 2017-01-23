@@ -22,3 +22,6 @@ These demos follow Wes Bos's [JavaScript30](http://www.javascript30.com) challen
 
 7. **ARRAY CARDIO 2**  
     **Highlights**: Array methods: .some(), .find(), .findIndex()
+
+8. **HTML5 CANVAS**  
+    **Highlights**: destructuring arrays, global composite operation (like Photoshop blend modes)
