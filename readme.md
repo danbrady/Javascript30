@@ -31,3 +31,7 @@ These demos follow Wes Bos's [JavaScript30](http://www.javascript30.com) challen
 
 10. **MULTIPLE CHECKBOX SELECTION**  
     **Highlights**: selecting range of elements using shift key
+
+11. **HTML5 VIDEO PLAYER**  
+    **Highlights**: video event listeners  
+    **Tweaks**: Added fullscreen capibility
