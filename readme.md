@@ -35,3 +35,7 @@ These demos follow Wes Bos's [JavaScript30](http://www.javascript30.com) challen
 11. **HTML5 Video Player**  
     _Highlights_: video event listeners  
     _Tweaks_: Added fullscreen capability
+
+12. **Key Code Detection**  
+    _Highlights_: Detecting a key sequence  
+    _Tweaks_: Added more rainbows and detect Konami code (with arrow keys) instead of just single characters
